@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+mutagen==1.42.0

@@ -1,0 +1,12 @@
+[
+  {
+    "m3u_filename": "Roxette - Albums.m3u",
+    "root_folder": "/Users/bjorn_aelvoet/fs/ssh_server/Music/Music/Official/",
+    "folders": ["Roxette/Look Sharp!/", "Roxette/Joyride"]
+  },
+  {
+    "m3u_filename": "Roxette - Hits.m3u",
+    "root_folder": "/Users/bjorn_aelvoet/fs/ssh_server/Music/Music/Official/",
+    "folders": ["Roxette/Look Sharp!/", "Roxette/Joyride"]
+  }
+]
