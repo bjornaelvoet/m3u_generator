@@ -1,0 +1,12 @@
+[
+  {
+    "m3u_filename": "Roxette - Look Sharp!.m3u",
+    "root_folder": "/Shared/Music/",
+    "folders": ["Roxette/Look Sharp!"]
+  },            
+  {
+    "m3u_filename": "Roxette - Albums.m3u",
+    "root_folder": "/Shared/Music/",
+    "folders": ["Roxette/Look Sharp!", "Roxette/Joyride", "Roxette/Tourism"]
+  }
+]
